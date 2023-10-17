@@ -1,6 +1,5 @@
 import Hero from './Hero';
 import Footer from './Footer';
-import Navbar from './Navbar';
 import CustomerReviews from './CustomerReviews';
 import PopularProducts from './PopularProducts';
 import SuperQuality from './SuperQuality';
@@ -12,7 +11,6 @@ export{
     CustomerReviews,
     Footer,
     Hero,
-    Navbar,
     PopularProducts,
     Services,
     SpecialOffer,
